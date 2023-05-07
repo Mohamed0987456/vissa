@@ -1,0 +1,13 @@
+
+#https://my.telegram.org/
+API_ID = 12345678
+# https://my.telegram.org/
+API_HASH = "48aaec2eb7f18"
+
+
+
+# https://replit.com/@api-hamo/pyrogram-session-string?v=1
+SESSION = "kaE-7Ksa8ofCpASctNFAFFiVTczdtS"
+
+
+chanel = "hamo"
